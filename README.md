@@ -56,4 +56,4 @@ The Weather App is open-source software, feel free to download and work on it.
 
 ---
 
-Feel free to customize the readme file according to your project's needs. Make sure to include accurate and relevant information for users who want to set up and use your Weather App.
+Feel free to customize the readme file according to your project's needs. Make sure to include accurate and relevant information for users who want to set up and use your particular Weather App.
