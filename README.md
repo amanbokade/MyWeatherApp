@@ -1,7 +1,7 @@
 # Weather App Readme
 
 The Weather App is a web application that allows users to check the weather forecast for a specific location. It is built using HTML, CSS, and JavaScript and utilizes the free Weather API provided by OpenWeatherMap.org via the Rapid API platform. This readme file provides information on how to set up and use the Weather App.
-
+Deployed WebPage is at : https://amanbokade.github.io/MyWeatherApp/
 ## Features
 
 - Check the current weather conditions for a specific location.
