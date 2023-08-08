@@ -52,7 +52,7 @@ Before contributing, make sure you have read the [Contributor Covenant Code of C
 
 ## License
 
-The Weather App is open-source software released under the [MIT License](LICENSE).
+The Weather App is open-source software, feel free to download and work on it.
 
 ---
 
