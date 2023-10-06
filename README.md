@@ -48,7 +48,6 @@ The Weather App uses the OpenWeatherMap API to retrieve weather data. To access 
 
 Contributions to the Weather App are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-Before contributing, make sure you have read the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
